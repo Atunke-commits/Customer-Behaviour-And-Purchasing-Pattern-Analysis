@@ -8,10 +8,6 @@
 * To identify top performing books and authors
 * To generate insights and recommendation 
 
-
-Dataset Source: 
-Book Store Dataset (Kaggle or provided source)
-
 ### Key Performance Indicators (KPIs)
 * Average Rating:  4.6 
 * Total Profit:  $7,205.00
